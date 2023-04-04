@@ -12,9 +12,8 @@ Ans. This command sets the author name and email address respectively to be used
 Ques. Git clone
 Ans. Git clone is a command for downloading existing source code from a remote repository(like github).
 
-Ques. Git add
-Ans. When we create, modify or delete a file, these changes will happen in our local and won't be included in the next commit (unless we change the configurations).
-
+Ques. Git . or git add *
+Ans. This will take all our files into the Git repository, i.e., into the staging area.
 Ques. Git commit
 Ans. This command records or snapshots the file permanently in the version history.
 
@@ -29,6 +28,5 @@ Ans. This command fetches and merges changes on the remote server to your workin
 
 Ques. Git remote
 Ans. This command is used to connect your local repository to the remote server.
-
 
 
